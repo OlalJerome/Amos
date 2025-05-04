@@ -1,6 +1,4 @@
-# Amos
-
-# OlalJerome Portfolio
+# Amos Portfolio
 
 Welcome to the personal portfolio of **OlalJerome** — a biomedical engineer, project manager, researcher, machine learning engineer, web developer, and entrepreneur passionate about leveraging technology to solve real-world problems, particularly in the biomedical field.
 
