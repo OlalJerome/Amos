@@ -1,11 +1,10 @@
 # Amos Portfolio
 
-Welcome to the personal portfolio of **OlalJerome** — a biomedical engineer, project manager, researcher, machine learning engineer, web developer, and entrepreneur passionate about leveraging technology to solve real-world problems, particularly in the biomedical field.
+Welcome to my personal portfolio (**OlalJerome**) — a biomedical engineer and self taught machine learning engineer, and systems developer. Here I show how I have showcased my technology skills and knowledge to solve real-world problems.
 
-This website showcases my work, projects, and achievements, providing insights into my journey as a multidisciplinary professional. Explore the sections below to learn more about my projects, research, and contributions in the field of **Biomedical Engineering**, **AI in Medicine**, and **Machine Learning**.
+This website showcases my work, projects, and achievements, providing insights into my journey as a multidisciplinary professional. Explore the sections below to learn more about my projects, research, and contributions in the field of **Systems development, biomedical Engineering**, **AI **, and **Machine Learning**.
 
 ## Website Sections
-
 ### 1. **Home**
    - A brief introduction about myself, my background, and my passion for technology and biomedical engineering.
 
